@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Kim Minseong</h1>
+<h1 align="center">Minseong Kim</h1>
 <h3 align="center">Game Systems Developer | Unity</h3>
 
 <p align="center">
@@ -8,65 +8,31 @@ Unity 기반 게임 프로젝트를 통해<br>
 
 ---
 
-## 🚀 About Me
+## 🎮 Interests
 
-🎓 Sejong University Software  
-🎮 Unity Game Developer  
-⚙️ Interested in Game Systems
+🎵 **리듬게임 시스템 구현**  
+리듬 판정, 경로 계산 등 리듬게임 로직 시스템에 관심이 있습니다.
 
----
+⚡ **인터랙티브 시스템**  
+플레이어 입력이 게임 시스템과 연결되는 인터랙션 설계에 관심이 있습니다.
 
-## 🧠 Interests
-
-🎵 **리듬게임 시스템 구현**
-
-⚡ **입력 기반 인터랙션 시스템**
-
-✨ **사용자 반응 기반 시각적 인터랙션**
+✨ **시각적 인터랙션**  
+Shader 기반 사용자 반응형 시각 효과와 인터랙션 구현에 관심이 있습니다.
 
 ---
 
-## 🎮 Projects
-
-**Beat Restaurant**
-
-Unity 기반 요리 리듬게임 프로젝트  
-
-주요 구현
-- Rhythm Input Judgement System
-- Bezier 기반 Slider Path System
-- Shader 기반 Interaction
-- Ingredient Cutting System
-
----
-
-**Offbeat | Team Project**
-
-3D 리듬게임 프로젝트
-
-Role
-- PM / Planning
-- Unity Development
-
-Team  
-5명 (Art 1 / Programmer 4)
-
----
-
-## 🛠 Tech Stack
+## 💻 Problem Solving
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shader-FF6F00?style=for-the-badge"/>
+<a href="https://solved.ac/bear6734">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bear6734"/>
+</a>
 
 </p>
 
----
+<p align="center">
 
-## 📫 Contact
+<img src="http://mazandi.herokuapp.com/api?handle=bear6734&theme=dark"/>
 
-GitHub  
-https://github.com/Dongttak
+</p>
