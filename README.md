@@ -1,10 +1,9 @@
-<h1 align="center">Minseong Kim</h1>
-<h3 align="center">Game Systems Developer | Unity</h3>
+Minseong Kim
+Game Systems Developer | Unity
 
-<p align="center">
-Unity 기반 게임 프로젝트를 통해<br>
+
+Unity 기반 게임 프로젝트를 통해
 리듬 입력 시스템과 인터랙티브 게임 기능을 구현해 왔습니다.
-</p>
 
 ---
 
