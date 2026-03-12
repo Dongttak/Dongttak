@@ -1,5 +1,5 @@
-Minseong Kim
-Game Systems Developer | Unity
+# Minseong Kim
+###Game Systems Developer | Unity
 
 
 Unity 기반 게임 프로젝트를 통해
@@ -19,19 +19,8 @@ Unity 기반 게임 프로젝트를 통해
 Shader 기반 사용자 반응형 시각 효과와 인터랙션 구현에 관심이 있습니다.
 
 ---
-
 ## 💻 Problem Solving
 
-<p align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bear6734)](https://solved.ac/bear6734)
 
-<a href="https://solved.ac/bear6734">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bear6734"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="http://mazandi.herokuapp.com/api?handle=bear6734&theme=dark"/>
-
-</p>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bear6734&theme=dark)
