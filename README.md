@@ -1,33 +1,46 @@
-# 김민성 | Game Systems Developer
+<h1 align="center">🎮 Kim Minseong</h1>
+<h3 align="center">Game Systems Developer | Unity</h3>
 
-Unity 기반 게임 프로젝트를 통해  
+<p align="center">
+Unity 기반 게임 프로젝트를 통해<br>
 리듬 입력 시스템과 인터랙티브 게임 기능을 구현해 왔습니다.
+</p>
 
-🎮 **관심 분야**
+---
 
-- 리듬게임 시스템
-- 입력 기반 인터랙션 시스템
-- 사용자 반응 기반 시각적 인터랙션
+## 🚀 About Me
+
+🎓 Sejong University Software  
+🎮 Unity Game Developer  
+⚙️ Interested in Game Systems
+
+---
+
+## 🧠 Interests
+
+🎵 **리듬게임 시스템 구현**
+
+⚡ **입력 기반 인터랙션 시스템**
+
+✨ **사용자 반응 기반 시각적 인터랙션**
 
 ---
 
 ## 🎮 Projects
 
-### Beat Restaurant
-Unity 기반 요리 리듬게임 프로젝트
+**Beat Restaurant**
+
+Unity 기반 요리 리듬게임 프로젝트  
 
 주요 구현
 - Rhythm Input Judgement System
 - Bezier 기반 Slider Path System
-- Shader 기반 Interaction Effect
+- Shader 기반 Interaction
 - Ingredient Cutting System
-
-Tech  
-Unity · C# · Shader · FMOD
 
 ---
 
-### Offbeat (Team Project)
+**Offbeat | Team Project**
 
 3D 리듬게임 프로젝트
 
@@ -40,6 +53,20 @@ Team
 
 ---
 
-## 🛠 Tech
+## 🛠 Tech Stack
 
-Unity · C# · Shader · FMOD · Python
+<p align="center">
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shader-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+GitHub  
+https://github.com/Dongttak
