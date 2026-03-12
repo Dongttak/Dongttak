@@ -1,5 +1,5 @@
 # Minseong Kim
-###Game Systems Developer | Unity
+### Game Systems Developer | Unity
 
 
 Unity 기반 게임 프로젝트를 통해
