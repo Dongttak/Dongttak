@@ -20,11 +20,3 @@
 - Input → State → Rendering 구조
 
 현재는 Unity에서 Web 기반 인터랙션으로 확장하고 있습니다.
-
----
-
-### Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bear6734)](https://solved.ac/bear6734)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=bear6734&theme=dark)
