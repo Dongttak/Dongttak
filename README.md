@@ -18,5 +18,3 @@
 - 인터랙티브 시스템 (Interactive Systems)
 - 알고리즘 / 데이터 / 상태의 시각화 (Visualization)
 - Input → State → Rendering 구조
-
-현재는 Unity에서 Web 기반 인터랙션으로 확장하고 있습니다.
