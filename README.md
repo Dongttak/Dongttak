@@ -1,5 +1,5 @@
 # Minseong Kim
-### Interactive Systems Developer | Unity → Web
+### Interactive Systems Developer | Unity
 
 입력이 실제 동작과 시각적 결과로 이어지는 시스템을 만듭니다.
 
